@@ -17,5 +17,5 @@ def sum_line(string):
 
 
 if __name__ == "__main__":
-    numb = input('Please enter numbers without gaps: ')
+    numb = input("Please enter numbers with gaps: ")
     print(sum_line(numb))
